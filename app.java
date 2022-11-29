@@ -2,3 +2,4 @@
 # please do not hard code
 # make use of variables and dynamic variables
 # author : florent
+# this is a fe application
